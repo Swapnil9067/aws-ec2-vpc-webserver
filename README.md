@@ -1,6 +1,6 @@
 # EC2 Web Server on Custom VPC
 
-**Live IP:** http://YOUR-EC2-PUBLIC-IP (Stop/Start changes IP)  
+**Live IP:** http://[YOUR-EC2-PUBLIC-IP](http://13.235.244.86/) (Stop/Start changes IP)  
 **Region:** AWS ap-south-1 (Mumbai)
 
 ---
