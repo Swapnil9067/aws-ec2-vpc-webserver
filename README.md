@@ -32,7 +32,7 @@ and security group configuration.
 ## Architecture
 Internet → IGW → VPC (10.0.0.0/16) →
 Public Subnet (10.0.1.0/24) →
-Security Group → EC2 t2.micro → Apache
+Security Group → EC2 t3.micro → Apache
 
 ---
 
