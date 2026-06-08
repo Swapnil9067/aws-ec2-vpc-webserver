@@ -7,7 +7,7 @@
 
 ## About This Project
 
-An Apache web server deployed on Amazon EC2 (t2.micro) 
+An Apache web server deployed on Amazon EC2 (t3.micro) 
 inside a custom VPC with public subnet, internet gateway, 
 and security group configuration.
 
