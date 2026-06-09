@@ -108,7 +108,7 @@ Security Group → EC2 t3.micro → Apache
 - Internet Gateway attached to VPC
 - Route table with 0.0.0.0/0 → IGW
 - Security Group: HTTP open, SSH restricted to My IP
-- EC2 t2.micro with Amazon Linux 2023
+- EC2 t3.micro with Amazon Linux 2023
 - Apache web server installed via User Data script
 - Webpage accessible via EC2 public IP
 
@@ -118,7 +118,7 @@ Security Group → EC2 t3.micro → Apache
 
 | Service | Purpose |
 |---|---|
-| Amazon EC2 | Virtual server (t2.micro) |
+| Amazon EC2 | Virtual server (t3.micro) |
 | Amazon VPC | Custom isolated network |
 | Subnet | Public network segment |
 | Internet Gateway | Internet access for VPC |
