@@ -85,7 +85,6 @@ and security group configuration.
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-08 060227" src="https://github.com/user-attachments/assets/6405c706-3fdf-409a-bb4b-b7d0a56dc866" />
 
-
 <img width="1920" height="1080" alt="Screenshot 2026-06-08 060310" src="https://github.com/user-attachments/assets/af9c6743-cb64-45bf-8575-ace283292795" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-06-08 060440" src="https://github.com/user-
